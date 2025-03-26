@@ -25,7 +25,7 @@
 ## ⚡ Как запустить
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ТВОЙ_НИК/ТВОЙ_РЕПО.git
+   git clone https://github.com/Erlan1978/credit_risk/blob/main/credit_risk_model.ipynb
    cd Credit_Risk_Model
    ```
 2. Установите зависимосимости:
@@ -35,5 +35,5 @@
 3. Запустите ноутбук или скрипт.
 
 ## ✨ Автор
-[@ТВОЙ_НИК](https://github.com/ТВОЙ_НИК)
+[@Erlan1978]https://github.com/ТВОЙ_НИК)](https://github.com/Erlan1978
 
