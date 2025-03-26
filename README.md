@@ -35,5 +35,5 @@
 3. Запустите ноутбук или скрипт.
 
 ## ✨ Автор
-[@Erlan1978]https://github.com/ТВОЙ_НИК)](https://github.com/Erlan1978
+[@Erlan1978] https://github.com/Erlan1978
 
